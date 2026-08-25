@@ -12,9 +12,9 @@ Open `index.html` in any modern web browser. No installation, server, or depende
 
 | Key | Action |
 |-----|--------|
-| **Arrow Keys** or **WASD** | Move / dig through dirt |
-| **Space** or **Z** | Throw ball |
-| **Enter** | Confirm (high score entry) |
+| Arrow keys or `W` `A` `S` `D` | Move / dig through dirt |
+| `space` or `Z` | Throw ball |
+| `return` | Confirm (high score entry) |
 
 ### Touch (Mobile)
 
